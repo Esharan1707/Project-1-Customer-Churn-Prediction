@@ -27,10 +27,6 @@ Telco Customer Churn dataset (IBM sample data, available on Kaggle). A copy is i
 |---|---|---|---|
 | {fill from outputs/model_results.csv} | | | |
 
-## Key insights
-- {your insight 1}
-- {your insight 2}
-
 ## How to run
 ```
 pip install -r requirements.txt
